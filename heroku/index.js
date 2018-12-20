@@ -59,4 +59,6 @@ app.post('/instagram', function(req, res) {
   res.sendStatus(200);
 });
 
+console.log("New")
+
 app.listen();
